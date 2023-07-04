@@ -1,43 +1,45 @@
-Sin a.k.a Sinus
-Cos a.k.a Cosinus
-Tan a.k.a Tangen
+- Sin a.k.a Sinus
+- Cos a.k.a Cosinus
+- Tan a.k.a Tangen
 
-Step 1
+- Step 1
 ------------------------------
-Degree  |   0° 30° 45° 60° 90° 
-Sin     |   
-Cos     |
-Tan     |
+| Degree  |   0° | 30° | 45° | 60° | 90° |
+|--------------------------------|
+| Sin     |   
+| Cos     |
+| Tan     |
+|--------------------------------|
 
-Step 2
+- Step 2
 ------------------------------
 Degree  |   0° 30° 45° 60° 90° 
 Sin     |   0   1   2   3   4
 Cos     |
 Tan     |
 
-Step 3
+- Step 3
 ------------------------------
 Degree  |   0° 30° 45° 60° 90° 
 Sin     |   √0 √1  √2  √3  √4
 Cos     |
 Tan     |
 
-Step 4
+- Step 4
 ------------------------------
 Degree  |   0° 30° 45° 60° 90° 
 Sin     |   0  1   √2  √3  2
 Cos     |
 Tan     |
 
-Step 5
+- Step 5
 ------------------------------
 Degree  |   0° 30°  45°     60°     90° 
 Sin     |   0  1/2  1/2√2   1/2√3   1
 Cos     |
 Tan     |
 
-Step 6
+- Step 6
 ------------------------------
 Degree  |   0° 30°      45°     60°     90° 
 Sin     |   0  1/2      1/2√2   1/2√3   1
