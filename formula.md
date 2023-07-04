@@ -2,10 +2,12 @@
 - Cos a.k.a Cosinus
 - Tan a.k.a Tangen
 
-| Command | Description |
-| --- | --- |
-| `git status` | List all *new or modified* files |
-| `git diff` | Show file differences that **haven't been** staged |
+| Degree | 0° | 30° | 45° | 60° | 90° | 
+| --- | --- | --- | --- | --- | --- |
+| `Sin` | | | | | |
+| `Cos` | | | | | |
+| `Tan` | | | | | |
+
 
 - Step 1
 ------------------------------
